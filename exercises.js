@@ -329,7 +329,7 @@ var accelerate = function(amount) {
 
 // Put your answer below -------------------------
 
-/* */
+/* It sets the speed to NaN because the amount is undefined */
 
 var speed = 0;
 
@@ -342,7 +342,7 @@ var accelerate = function(amount) {
   }
 };
 
-// accelerate();
+accelerate();
 
 // -----------------------------------------------
 
